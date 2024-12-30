@@ -3,5 +3,6 @@
 # Tecnologias
  Para o desenvolvimento desse projecto foram usadas as seguintes tecnologias:
  - Python (Folium)
+ - HTML & CSS
  - Dash + Plotly
  - Git e Github
